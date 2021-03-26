@@ -8,9 +8,9 @@ The code should run with no issues using Python versions 3.*. At least Python 3.
 ## Project Motivation
 For this project, I was interestested in using Stack Overflow data from 2020 to better understand:
 
-1. What percentage of developers are satisfied with their job?
-2. Which factors have influenced the job satisfaction?
-3. How the above factor have influenced Job satisfaction?
+1. Which country do most people answer this survey?
+2. What percentage of developers are satisfied with their job?
+3. Which factors have influenced the job satisfaction?
 
 ## File Descriptions
 All my project is written in First_Project.ipynb.
